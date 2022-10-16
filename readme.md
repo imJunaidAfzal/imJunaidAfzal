@@ -2,9 +2,13 @@
 
 
 
+
+
+
+
 <img align="left" src="https://github.com/imJunaidAfzal/imJunaidAfzal/blob/main/Ai_.gif" width="400" alt="AI"/> 
-<br/>
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=imjunaidafzal&show_icons=true&theme=dark" width="400">
 
 ![Snake animation](https://github.com/imJunaidAfzal/imJunaidAfzal/blob/output/github-contribution-grid-snake.svg)
