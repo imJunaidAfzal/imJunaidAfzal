@@ -1,4 +1,21 @@
-![](https://komarev.com/ghpvc/?username=imjunaidafzal&label=PROFILE+VIEWS)
+<p align='center'>
+  
+  
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=imjunaidafzal&label=PROFILE+VIEWS" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/imjunaidafzal/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" />        
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
 
 <a href="https://app.daily.dev/ImJunaidAfzal"><img align="right" src="https://api.daily.dev/devcards/d639079782a949158f0f1784f39bf870.png?r=9wo" width="320" alt="Junaid Afzal's Dev Card"/></a> 
 
