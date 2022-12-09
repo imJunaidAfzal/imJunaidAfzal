@@ -1,4 +1,4 @@
-<p align='center'>
+<p align='left'>
   
   
   <a href="#">
@@ -23,8 +23,13 @@
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imjunaidafzal&theme=dark&ring=DD2727)](https://git.io/streak-stats)
+<br>
+<img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjunaidafzal&layout=compact&theme=cobalt&hide_border=true"/>
 
-<img align="left" src="https://github.com/imJunaidAfzal/imJunaidAfzal/blob/main/Ai_.gif" width="495" alt="AI"/> 
+<br>
+<img align="right" src="https://github.com/imJunaidAfzal/imJunaidAfzal/blob/main/Ai_.gif" width="320" alt="AI"/> 
 
+<br>
 
 ![Snake animation](https://github.com/imJunaidAfzal/imJunaidAfzal/blob/output/github-contribution-grid-snake.svg)
+</p>
