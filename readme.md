@@ -27,7 +27,7 @@
 <img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjunaidafzal&layout=compact&theme=cobalt&hide_border=true"/>
 
 <br>
-<img align="right" src="https://github.com/imJunaidAfzal/imJunaidAfzal/blob/main/Ai_.gif" width="320" alt="AI"/> 
+<!-- <img align="right" src="https://github.com/imJunaidAfzal/imJunaidAfzal/blob/main/Ai_.gif" width="320" alt="AI"/>  -->
 
 <br>
 
