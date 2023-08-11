@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reggae+One&duration=1000&pause=800&color=831C95&multiline=true&width=435&lines=Junaid+Afzal;Machine+Learning+Engineer+)](https://git.io/typing-svg)
+
 <p align='left'>
   
   
@@ -24,12 +26,18 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=imjunaidafzal&theme=dark&ring=DD2727)](https://git.io/streak-stats)
 <br>
-<img align="left" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjunaidafzal&layout=compact&theme=cobalt&hide_border=true"/>
+<img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imjunaidafzal&layout=compact&theme=cobalt&hide_border=true"/>
 
 <br>
 <!-- <img align="right" src="https://github.com/imJunaidAfzal/imJunaidAfzal/blob/main/Ai_.gif" width="320" alt="AI"/>  -->
 
 <br>
+</p>
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imjunaidafzal&theme=2077)
+<br>
+
+
 
 ![Snake animation](https://github.com/imJunaidAfzal/imJunaidAfzal/blob/output/github-contribution-grid-snake.svg)
-</p>
