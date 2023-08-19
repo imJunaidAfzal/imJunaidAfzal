@@ -12,7 +12,6 @@
 
 <br>
 <!-- <img align="right" src="https://github.com/imJunaidAfzal/imJunaidAfzal/blob/main/Ai_.gif" width="320" alt="AI"/>  -->
-
 <br>
 </p>
 
