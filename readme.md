@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Reggae+One&duration=1000&pause=800&color=831C95&multiline=true&width=435&lines=Junaid+Afzal;Machine+Learning+Engineer+)](https://git.io/typing-svg)
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Reggae+One&duration=1000&pause=800&color=831C95&multiline=true&width=435&lines=Junaid+Afzal;Machine+Learning+Engineer+)](https://git.io/typing-svg)
 
 
 <a href="https://app.daily.dev/ImJunaidAfzal"><img align="right" src="https://api.daily.dev/devcards/d639079782a949158f0f1784f39bf870.png?r=9wo" width="320" alt="Junaid Afzal's Dev Card"/></a> 
