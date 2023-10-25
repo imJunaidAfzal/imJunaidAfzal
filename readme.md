@@ -27,6 +27,8 @@ Python           | Programming Language                                 | ![Pyth
 Hugging Face     | AI Library                                           | ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-AI%20Library-ff69b4)
 OpenAI           | Language Models                                      | ![OpenAI](https://img.shields.io/badge/OpenAI-Language%20Models-00cc55)
 Stable Diffusion | Diffusion Simulator                                  | ![Stable Diffusion](https://img.shields.io/badge/Stable%20Diffusion-Diffusion%20Simulator-blue)
+LoRa             | Low-Rank Adaptation                                  | ![LoRa](https://img.shields.io/badge/LoRa-Fine%20Tuning-blue)
+ControlNet       | Control Diffusion Models                             | ![ControlNet](https://img.shields.io/badge/ControlNet-Control%20Diffusion%20Models-blue)
 AWS              | Cloud Services                                       | ![AWS](https://img.shields.io/badge/AWS-Cloud%20Services-orange)
 Google Colab     | Online Jupyter Notebooks                             | ![Google Colab](https://img.shields.io/badge/Google%20Colab-Notebooks-yellow)
 Assembly AI      | Automatic Speech Recognition                         | ![Assembly AI](https://img.shields.io/badge/Assembly%20AI-Speech%20Recognition-green)
